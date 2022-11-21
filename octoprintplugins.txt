@@ -1,0 +1,9 @@
+
+Name: PrintTimeGenius Plugin 
+URL: https://github.com/eyal0/OctoPrint-PrintTimeGenius 
+Name: Pretty GCode 
+URL: https://github.com/Kragrathea/OctoPrint-PrettyGCode 
+Name: BLTouch Plugin
+URL: https://github.com/jneilliii/OctoPrint-Bltouch 
+Name: Bed Visualizer 
+URL: https://github.com/jneilliii/OctoPrint-BedLevelVisualizer
